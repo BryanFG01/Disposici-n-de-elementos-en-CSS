@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.imagen{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    cursor: pointer;
+    
+}
+
+.imagen1{
+    width: 300px;
+    height: 300px;
+    opacity: 0.5;
+
+}
+.imagen1:hover{
+    opacity: 1;
+}
+
+.imagen2{
+    width: 300px;
+    height: 300px;
+    opacity: 0.5;
+
+}
+
+.imagen2:hover{
+    opacity: 1;
+}
+
+.imagen3{
+    width: 300px;
+    height: 300px;
+    opacity: 0.5;
+}
+.imagen3:hover{
+    opacity: 1;
+}
+
+.imagen4{
+    width: 300px;
+    height: 300px;
+    opacity: 0.5;
+}
+.imagen4:hover{
+    opacity: 1;
+}
+
+.imagen5{
+    width: 300px;
+    height: 300px;
+    opacity: 0.5;
+}
+.imagen5:hover{
+    opacity: 1;
+}
+
+.imagen6{
+    width: 300px;
+    height: 300px;
+    opacity: 0.5;
+}
+.imagen6:hover{
+    opacity: 1;
+}
+
+
